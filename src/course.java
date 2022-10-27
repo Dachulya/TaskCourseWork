@@ -15,7 +15,7 @@ public class course {
             n+=1;
             //System.out.println(masiv[i]);
         }
-        //masiv[0]=3;
+
         System.out.println(Arrays.toString(masiv));
 
     }
